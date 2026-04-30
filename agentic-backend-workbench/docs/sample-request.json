@@ -1,7 +1,0 @@
-{
-  "projectName": "订单管理后端系统",
-  "techStack": "Java 17, Spring Boot 3, Maven, REST API, JUnit 5",
-  "requirement": "构建一个订单管理后端模块，支持创建订单、查询订单详情、分页查询订单列表。需要校验参数、处理订单不存在异常，并生成单元测试和代码审查建议。",
-  "generateTests": true,
-  "strictReview": true
-}
